@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Drivecore ",
+  "description": "A high-performance social platform for car enthusiasts and dealers. Features AI-powered budgeting, dealer verification, global car feed, and secure community chats with an orange-white aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
